@@ -26,7 +26,7 @@ const UploadImage = () => {
       {selectedImage ? (
         <div>
           <img
-            className='image w-[180px] h-[180px]'
+            className='image w-full h-fit'
             src={selectedImage}
             alt='Selected'
             style={{ maxWidth: '100%' }}
