@@ -35,9 +35,9 @@ const UploadImage = () => {
       ) : (
         // if selected image is null, then show the upload icon
         <label htmlFor='fileInput' className='cursor-pointer'>
-          <div className='w-[180px] h-[180px] border-2 border-dashed rounded-xl flex flex-col items-center justify-center gap-3'>
+          <div className='w-full h-full border-2 border-dashed rounded-xl flex flex-col items-center justify-center gap-3'>
             <FaRegImage className='w-6 h-6' />
-            <h1 className='text-lg'>Add Images</h1>
+            <h1 className='lg:text-lg'>Add Images</h1>
           </div>
         </label>
       )}
