@@ -2,7 +2,7 @@
 
 A versatile and customizable image gallery built with React and Vite, featuring drag and drop sorting, image uploading, multiple image selection, and batch deletion.
 
-![Demo](path-to-your-demo-gif-or-screenshot)
+![Demo](https://github.com/HamidTheDev/React-Grid-Gallery/blob/main/src/assets/demo/demo.gif)
 
 ## Features
 
@@ -25,3 +25,4 @@ These instructions will help you get a copy of the project up and running on you
 
    ```bash
    git clone https://github.com/HamidTheDev/React-Grid-Gallery
+   ```
