@@ -1,0 +1,6 @@
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(100px, 180px)); /* minimum width of the image 100px and max 180px*/
+  gap: 20px;
+}
+
